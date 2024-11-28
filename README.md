@@ -1,7 +1,7 @@
 ZMK Firmware for Corne keyboard
 
 - Support ZMK-Studio ( http://zmk.studio ). For unlock use key ZMK Studio
-![image](https://github.com/user-attachments/assets/66ce7191-dd77-4d95-9272-b167f9816187)
+![image|800](https://github.com/user-attachments/assets/66ce7191-dd77-4d95-9272-b167f9816187)
 
 - Support SOFT-OFF. Wake up by RESET button
 ![image](https://github.com/user-attachments/assets/c169d2ea-0cdb-4628-bc64-2d7d3e05d046)
